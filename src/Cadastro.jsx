@@ -24,15 +24,18 @@ function Cadastro() {
         <input type="text" id="usuario" placeholder="Digite seu CPF" />
       </div>
 
+        <div className="user-pass">
       <div className="form-group">
-        <label htmlFor="Usuario">Usuario:</label>
-        <input type="password" id="usuario" placeholder="Digite seu usuario" />
+        <label htmlFor="Usuario">Usuário:</label>
+        <input type="text" id="usuario" placeholder="Digite seu usuário" />
       </div>
 
       <div className="form-group">
         <label htmlFor="Senha">Senha:</label>
         <input type="password" id="senha" placeholder="Digite sua senha" />
       </div>
+    </div>
+
 
 
 
