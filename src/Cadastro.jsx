@@ -11,28 +11,28 @@ function Cadastro() {
 
       <div className="form-group">
         <label htmlFor="Nome">Nome:</label>
-        <input type="text" id="usuario" placeholder="Digite seu nome" />
+        <input type="text" id="usuario" placeholder="" />
       </div>
 
       <div className="form-group">
         <label htmlFor="Email">E-mail:</label>
-        <input type="password" id="usuario" placeholder="Digite seu email" />
+        <input type="password" id="usuario" placeholder="" />
       </div>
 
       <div className="form-group">
         <label htmlFor="CPF">CPF:</label>
-        <input type="text" id="usuario" placeholder="Digite seu CPF" />
+        <input type="text" id="usuario" placeholder="" />
       </div>
 
         <div className="user-pass">
       <div className="form-group">
         <label htmlFor="Usuario">Usuário:</label>
-        <input type="text" id="usuario" placeholder="Digite seu usuário" />
+        <input type="text" id="usuario" placeholder="" />
       </div>
 
       <div className="form-group">
         <label htmlFor="Senha">Senha:</label>
-        <input type="password" id="senha" placeholder="Digite sua senha" />
+        <input type="password" id="senha" placeholder="" />
       </div>
     </div>
 

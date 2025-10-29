@@ -11,12 +11,12 @@ function App() {
 
       <div className="form-group">
         <label htmlFor="usuario">Usuário:</label>
-        <input type="text" id="usuario" placeholder="Digite seu usuário" />
+        <input type="text" id="usuario" placeholder="" />
       </div>
 
       <div className="form-group">
         <label htmlFor="senha">Senha:</label>
-        <input type="password" id="senha" placeholder="Digite sua senha" />
+        <input type="password" id="senha" placeholder="" />
       </div>
 
       <div className="options">
